@@ -7,7 +7,7 @@ Just a Hello World service for tests
 If you have golang on your machine
 
 ```
-$ go get -v github/efrenfuentes/go_hello
+$ go get -v github.com/efrenfuentes/go_hello
 
 $ cd $GOPATH/src/github/efrenfuentes/go_hello
 
@@ -24,7 +24,7 @@ Go to your browser on http://localhost:8080
 If you have docker on your machine
 
 ```
-$ go get -v github/efrenfuentes/go_hello
+$ go get -v github.com/efrenfuentes/go_hello
 
 $ cd $GOPATH/src/github/efrenfuentes/go_hello
 
